@@ -1,0 +1,998 @@
+{
+  "Nectarine": [
+    "Bacterial dieback of nectarine",
+    "Bacterial spot"
+  ],
+  "Pineapple": [
+    "Bacterial heart rot and fruit collapse",
+    "Mealybug wilt",
+    "Phytophthora heart and root rot",
+    "Pink disease"
+  ],
+  "Peach": [
+    "Bacterial canker",
+    "Bacterial dieback of peach",
+    "Bacterial spot",
+    "Brown rot",
+    "Crown gall",
+    "Leaf curl",
+    "Phony disease",
+    "Phytophthora root and crown rot",
+    "Plum pox virus",
+    "Rust",
+    "Scab",
+    "Shot hole disease",
+    "X-disease"
+  ],
+  "Sorghum": [
+    "Bacterial leaf blight",
+    "Bacterial leaf spot",
+    "Bacterial leaf streak",
+    "Bacterial leaf stripe",
+    "Bacterial stalk and top rot"
+  ],
+  "Tomato": [
+    "Anthracnose",
+    "Bacterial canker",
+    "Bacterial fruit rot",
+    "Bacterial speck",
+    "Bacterial spot",
+    "Bacterial stem rot",
+    "Bacterial wilt",
+    "Black mold",
+    "Blossom-end rot",
+    "Buckeye rot",
+    "Catface",
+    "Early blight",
+    "Edema",
+    "Fusarium wilt",
+    "Gray mold",
+    "Late blight",
+    "Leaf Mold",
+    "Little leaf",
+    "Magnesium deficiency",
+    "Pith necrosis",
+    "Septoria leaf spot",
+    "Sunscald",
+    "Syringae leaf spot",
+    "Target Spot",
+    "Tomato Yellow Leaf Curl disease",
+    "Tomato big bud",
+    "Tomato mosaic virus",
+    "Tomato spotted wilt",
+    "Verticillium wilt",
+    "Water stress",
+    "Zippering"
+  ],
+  "Papaya": [
+    "Anthracnose and charcoal spot",
+    "Bacterial decline",
+    "Bacterial fasciation",
+    "Bacterial mushy canker",
+    "Black rot",
+    "Black spot",
+    "Cercospora black spot",
+    "Internal yellowing",
+    "Papaya dieback",
+    "Papaya ringspot",
+    "Phytophthora fruit rot",
+    "Powdery mildew",
+    "Purple stain"
+  ],
+  "Pecan": [
+    "Bacterial leaf scorch",
+    "Bunch disease",
+    "Scab",
+    "Witches'-broom",
+    "Zonate leaf spot"
+  ],
+  "Rice": [
+    "Bacterial blight",
+    "Bacterial foot rot",
+    "Bacterial leaf spot",
+    "Bacterial leaf streak",
+    "Bacterial palea browning",
+    "Bacterial seedling blight",
+    "Bakanae",
+    "False smut",
+    "Grain rot",
+    "Halo blight",
+    "Narrow leaf spot",
+    "Rice blast",
+    "Rice yellow dwarf",
+    "Sheath blight",
+    "Sheath brown rot",
+    "Stem rot",
+    "Tungro"
+  ],
+  "Cotton": [
+    "Angular leaf spot",
+    "Asochyta blight",
+    "Boll rot",
+    "Fusarium wilt",
+    "Target spot"
+  ],
+  "Blackberry": [
+    "Blackberry rosette",
+    "Botrytis fruit rot",
+    "Cane and Leaf Rust",
+    "Crown gall"
+  ],
+  "Bean": [
+    "Alternaria leaf spot",
+    "Anthracnose",
+    "Bacterial blight",
+    "Bacterial brown spot",
+    "Bacterial leaf spot",
+    "Bacterial wilt",
+    "Bean rust",
+    "Black root rot",
+    "Damping-off",
+    "Fusarium root rot",
+    "Halo blight",
+    "Mosaic",
+    "White mold"
+  ],
+  "Grape": [
+    "Anthracnose",
+    "Bacterial blight",
+    "Black rot",
+    "Bois noir disease",
+    "Botrytis bunch rot",
+    "Crown gall",
+    "Leaf spot",
+    "Pierce's disease",
+    "Powdery mildew"
+  ],
+  "Chilli Pepper": [
+    "Bacterial spot",
+    "Damping-off",
+    "Mosaic",
+    "Phytophthora blight",
+    "Powdery mildew",
+    "Southern blight"
+  ],
+  "Maize": [
+    "Anthracnose",
+    "Bacterial Leaf Streak disease",
+    "Bacterial leaf blight and stalk rot",
+    "Bacterial stalk and top rot",
+    "Bacterial stripe",
+    "Cercospora leaf spot",
+    "Charcoal rot",
+    "Chocolate spot",
+    "Common rust",
+    "Common smut",
+    "Corn stunt",
+    "Ear rot",
+    "Giberrella stalk and ear rot",
+    "Goss's bacterial blight",
+    "Goss's bacterial wilt",
+    "Holcus spot",
+    "Maize Lethal Necrosis Disease",
+    "Maize bushy stunt",
+    "Maize dwarf mosaic",
+    "Northern Leaf Blight",
+    "Pythium root rot",
+    "Southern corn leaf blight",
+    "Stewart's wilt",
+    "soft rot",
+    "stripe"
+  ],
+  "Horseradish": [
+    "Brittle root"
+  ],
+  "Sugarcane": [
+    "Gumming disease",
+    "Leaf scald",
+    "Ratoon stunt",
+    "Red stripe",
+    "Sugarcane dwarf"
+  ],
+  "Pepper": [
+    "Anthracnose",
+    "Bacterial spot",
+    "Bacterial wilt",
+    "Blossom-end rot",
+    "Cercospora leaf spot",
+    "Damping-off",
+    "Phytophthora blight",
+    "Powdery mildew",
+    "Southern blight",
+    "Syringae seedling blight",
+    "Tomato spotted wilt virus"
+  ],
+  "Pea": [
+    "Ascochyta disease",
+    "Bacterial blight",
+    "Bacterial wilt",
+    "Powdery mildew",
+    "Septoria blotch"
+  ],
+  "Almond": [
+    "Almond leaf scorch",
+    "Bacterial canker",
+    "Bacterial hyperplastic canker",
+    "Bacterial spot",
+    "Brown line and decline",
+    "Crown gall",
+    "European stone fruit yellows",
+    "Foamy canker",
+    "Hull rot"
+  ],
+  "Apple": [
+    "Apple proliferation",
+    "Apple scab",
+    "Black rot",
+    "Blister spot",
+    "Blossom blast",
+    "Cedar apple rust",
+    "Crown gall",
+    "Fire blight",
+    "Flyspeck",
+    "Hairy root",
+    "Phytophthora crown and root rot",
+    "Powdery mildew"
+  ],
+  "Cocoyam": [
+    "Alomae-bobone",
+    "Dasheen mosaic",
+    "Phytophthora leaf blight"
+  ],
+  "Broccoli": [
+    "Alternaria leaf spot",
+    "Black rot",
+    "Downy mildew",
+    "Ring spot",
+    "Sclerotinia stem rot",
+    "Wirestem"
+  ],
+  "Pumpkin": [
+    "Angular leaf spot",
+    "Bacterial fruit blotch",
+    "Bacterial leaf spot",
+    "Downy mildew",
+    "Phytophthora blight",
+    "Powdery mildew",
+    "Southern blight"
+  ],
+  "Cocoa": [
+    "Black pod",
+    "Cocoa swollen shoot",
+    "Frosty pod"
+  ],
+  "Onion": [
+    "Aster yellows",
+    "Bacterial flower stalk and leaf necrosis",
+    "Bacterial leaf streak and bulb rot",
+    "Bacterial soft rot",
+    "Black mold",
+    "Botrytis leaf blight",
+    "Center rot",
+    "Downy mildew",
+    "Enterobacter bulb decay",
+    "Fusarium basal plate rot",
+    "Fusarium damping-off",
+    "Pink root",
+    "Purple blotch",
+    "Pythium seed rot",
+    "Rust",
+    "Slippery skin",
+    "Smut",
+    "Sour skin",
+    "Xanthomonas leaf blight"
+  ],
+  "Koa": [
+    "Foamy canker"
+  ],
+  "Avocado": [
+    "Algal leaf spot",
+    "Anthracnose",
+    "Bacterial blast and fruit spot",
+    "Bacterial canker",
+    "Scab"
+  ],
+  "Apricot": [
+    "Armillaria root rot",
+    "Bacterial canker and blast",
+    "Bacterial spot",
+    "Brown rot blossom",
+    "Crown gall",
+    "Phytophthora root and crown rot",
+    "Powdery mildew",
+    "Ripe fruit rot",
+    "Rust"
+  ],
+  "Sweet potato": [
+    "Alternaria leaf spot",
+    "Bacterial stem and root rot",
+    "Black rot",
+    "Sweet potato little leaf",
+    "Sweet potato scab"
+  ],
+  "Tobacco": [
+    "Angular leaf spot",
+    "Bacterial fasciation",
+    "Bacterial wilt",
+    "Black shank",
+    "Blue mold",
+    "Broomrape",
+    "Collar rot",
+    "Frogeye leaf spot",
+    "Hollow stalk",
+    "Tobacco Leaf Curl disease",
+    "Tobacco mosaic",
+    "Tomato spotted wilt virus"
+  ],
+  "Barley": [
+    "Aster yellows",
+    "Bacterial blight",
+    "Bacterial leaf blight",
+    "Barley stripe",
+    "Barley yellow dwarf",
+    "Black chaff",
+    "Common root rot",
+    "Covered smut",
+    "Ergot",
+    "Fusarium head blight",
+    "Loose smut",
+    "Net blotch",
+    "Powder mildew"
+  ],
+  "Pearl Millet": [
+    "Ergot",
+    "Pearl Millet Downy Mildew",
+    "Rust",
+    "Smut",
+    "Striga or Purple Witchweed [Orobanchaceae]"
+  ],
+  "Lettuce": [
+    "Bacterial leaf spot",
+    "Big vein",
+    "Corky root",
+    "Head rot",
+    "Leaf drop",
+    "Marginal leaf blight",
+    "Powdery mildew",
+    "Varnish spot"
+  ],
+  "Orchid": [
+    "Bacterial brown rot",
+    "Bacterial bud and petal blight",
+    "Bacterial leaf blight and rot",
+    "Bacterial leaf spot",
+    "Bacterial soft rot",
+    "Bacterial stem rot",
+    "Petal blight"
+  ],
+  "Raspberry": [
+    "Bacterial blight",
+    "Fire blight",
+    "Gray mold",
+    "Leaf curl",
+    "Phytophthora root rot",
+    "Raspberry leaf spot",
+    "Raspberry mosaic disease",
+    "Raspberry ringspot",
+    "Spur blight",
+    "Yellow rust"
+  ],
+  "Guava": [
+    "Anthracnose",
+    "Rust"
+  ],
+  "Stock": [
+    "Phytoplasma disease"
+  ],
+  "Cactus": [
+    "Bacterial soft rot",
+    "Witches'-broom"
+  ],
+  "Plum": [
+    "Bacterial spot",
+    "Black knot",
+    "Brown rot",
+    "Fire blight",
+    "Plum leaf scald",
+    "Plum pox virus"
+  ],
+  "Peanut": [
+    "Bacterial leaf spot",
+    "Bacterial wilt",
+    "Cylindrocladium black rot",
+    "Peanut bud necrosis",
+    "Rust",
+    "Sclerotinia blight",
+    "Southern stem rot",
+    "Stunt",
+    "Tomato spotted wilt virus",
+    "Web blotch"
+  ],
+  "Cassava": [
+    "Anthracnose",
+    "Bacterial blight",
+    "Bacterial leaf spot",
+    "Brown Streak",
+    "Mosaic Disease",
+    "Root rot",
+    "Witches' broom"
+  ],
+  "Cantaloupe": [
+    "Alternaria leaf blight",
+    "Angular leaf spot",
+    "Anthracnose",
+    "Bacterial fruit blotch",
+    "Bacterial wilt",
+    "Cercospora leaf spot",
+    "Charcoal rot",
+    "Cucumber mosaic",
+    "Cucurbit yellow stunting disorder virus",
+    "Downy mildew",
+    "Gummy stem blight",
+    "Monosporascus vine decline",
+    "Powdery mildew",
+    "Southern blight",
+    "Squash mosaic"
+  ],
+  "Gourd": [
+    "Downy mildew",
+    "Scab"
+  ],
+  "Mume": [
+    "Bacterial canker"
+  ],
+  "Strawberry": [
+    "Angular leaf spot",
+    "Anthracnose",
+    "Aster yellows",
+    "Bacterial wilt",
+    "Gray mold",
+    "Green petal disease",
+    "Leaf scorch",
+    "Leaf spot",
+    "Multiplier disease",
+    "Phomopsis leaf blight",
+    "Powdery mildew",
+    "Red stele",
+    "Strawberry lethal decline",
+    "Strawberry yellows"
+  ],
+  "Squash": [
+    "Alternaria leaf spot",
+    "Aster yellows",
+    "Bacterial wilt",
+    "Downy mildew",
+    "Phytophthora crown and root rot",
+    "Powdery mildew",
+    "Squash mosaic"
+  ],
+  "Loquat": [
+    "Bacterial canker",
+    "Fire blight"
+  ],
+  "Orange": [
+    "Citrus canker",
+    "Citrus greening",
+    "Citrus stubborn disease",
+    "Citrus variegated chlorosis",
+    "Melanose",
+    "Tristeza disease"
+  ],
+  "Beet": [
+    "Bacterial blight",
+    "Bacterial leaf spot",
+    "Bacterial pocket",
+    "Bacterial scab",
+    "Bacterial vascular necrosis and rot",
+    "Beet curly top disease",
+    "Beet western yellows virus",
+    "Cercospora leaf spot",
+    "Damping off",
+    "Downy mildew",
+    "Fusarium yellows and root rot",
+    "Powdery mildew",
+    "Yellow wilt"
+  ],
+  "Wheatgrass": [
+    "Black chaff"
+  ],
+  "Fennel": [
+    "Bacterial rot"
+  ],
+  "Wheat": [
+    "Aster yellows",
+    "Bacterial leaf blight",
+    "Bacterial mosaic",
+    "Barley yellow dwarf",
+    "Basal glume rot",
+    "Black chaff",
+    "Eyespot",
+    "Fusarium head blight",
+    "Powdery mildew",
+    "Rusts",
+    "Tan spot"
+  ],
+  "Blueberry": [
+    "Botrytis blossom blight",
+    "Mummy berry",
+    "Powdery mildew",
+    "Stem canker"
+  ],
+  "Cucumber": [
+    "Angular leaf spot",
+    "Anthracnose",
+    "Bacterial wilt",
+    "Belly rot",
+    "Cucumber mosaic",
+    "Downy mildew",
+    "Gummy stem blight",
+    "Phytophthora blight",
+    "Powdery mildew",
+    "Pythium fruit rot",
+    "Scab",
+    "Septoria leaf spot",
+    "Target leaf spot"
+  ],
+  "Lemon grass": [
+    "Rust"
+  ],
+  "Pear": [
+    "Bacterial blast",
+    "Crown gall",
+    "Fire blight",
+    "Pear decline"
+  ],
+  "Banana": [
+    "Anthracnose",
+    "Bacterial finger-tip rot",
+    "Bacterial wilt",
+    "Banana mosaic",
+    "Black sigatoka",
+    "Blood disease",
+    "Bunchy top",
+    "Cigar end rot",
+    "Cordana leaf spot",
+    "Panama disease",
+    "Rhizome rot",
+    "Xanthomonas wilt"
+  ],
+  "Watermelon": [
+    "Alternaria leaf spot",
+    "Anthracnose",
+    "Bacterial fruit blotch",
+    "Bacterial leaf and stem necrosis",
+    "Downy mildew",
+    "Fusarium wilt",
+    "Gummy stem blight",
+    "Powdery mildew"
+  ],
+  "Eggplant": [
+    "Bacterial wilt",
+    "Cercospora leaf spot",
+    "Phomopsis fruit rot",
+    "Phytophthora blight"
+  ],
+  "Soybean": [
+    "Bacterial blight",
+    "Bacterial leaf spot",
+    "Bacterial pustule",
+    "Rust",
+    "Wildfire"
+  ],
+  "Potato": [
+    "Aster yellows",
+    "Bacterial ring rot",
+    "Bacterial soft rot",
+    "Black scurf & Rhizoctonia canker",
+    "Blackleg",
+    "Brown rot",
+    "Common scab",
+    "Potato Early Blight",
+    "Potato Late Blight",
+    "Potato leaf roll",
+    "Potato virus Y",
+    "Powdery scab",
+    "Verticillium wilt"
+  ],
+  "Coconut": [
+    "Bud rot and nutfall",
+    "Cadang-cadang",
+    "Ganoderma butt rot",
+    "Gray leaf blight",
+    "Lethal yellowing",
+    "Stem bleeding disease"
+  ],
+  "Clover": [
+    "Bacterial black leaf spot",
+    "Bacterial fasciation",
+    "Bacterial leaf spot",
+    "Rugose leaf curl"
+  ],
+  "Gypsophila": [
+    "Bacterial blight",
+    "Gypsophila gall"
+  ],
+  "Mulberry": [
+    "Bacterial blight",
+    "Mulberry dwarf disease"
+  ],
+  "Lime": [
+    "Anthracnose",
+    "Armillaria root rot",
+    "Australian citrus dieback",
+    "Bacterial blast and black pit",
+    "Citrus canker",
+    "Huanglongbing",
+    "Melanose",
+    "Tristeza virus",
+    "Witches'-broom"
+  ],
+  "Coffee": [
+    "Cercospora leaf spot",
+    "Coffee berry disease",
+    "Halo blight",
+    "Leaf rust",
+    "Leaf scorch"
+  ],
+  "Lemon": [
+    "Anthracnose",
+    "Armillaria root rot",
+    "Bacterial blast and black pit",
+    "Citrus canker",
+    "Huanglongbing",
+    "Mal secco"
+  ],
+  "Custard apple": [
+    "Bacterial wilt"
+  ],
+  "Okra": [
+    "Enation leaf curl disease",
+    "Powdery mildew",
+    "Yellow Vein Mosaic Disease"
+  ],
+  "Turnip": [
+    "Alternaria leaf spot",
+    "Anthracnose",
+    "Bacterial leaf spot",
+    "Bacterial soft rot",
+    "Cercospora leaf spot",
+    "Clubroot",
+    "Sclerotinia rot",
+    "Turnip mosaic"
+  ],
+  "Celery": [
+    "Bacterial blight",
+    "Bacterial leaf spot",
+    "Cercospora leaf spot",
+    "Septoria blight"
+  ],
+  "Muskmelon": [
+    "Bacterial wilt"
+  ],
+  "Cherry": [
+    "Bacterial canker",
+    "Bacterial gall",
+    "Black knot",
+    "Brown rot",
+    "Crown gall",
+    "Leaf spot",
+    "Rasp leaf",
+    "Verticillium wilt",
+    "X-disease"
+  ],
+  "Chinese cabbage": [
+    "Alternaria leaf spot",
+    "Clubroot",
+    "Downy mildew"
+  ],
+  "Ginger": [
+    "Bacterial wilt"
+  ],
+  "Elderberry": [
+    "Bacterial leaf spot"
+  ],
+  "Dill": [
+    "Cercospora leaf blight"
+  ],
+  "Grapefruit": [
+    "Anthracnose",
+    "Australian citrus dieback",
+    "Citrus canker",
+    "Huanglongbing",
+    "Tristeza disease"
+  ],
+  "Walnut": [
+    "Anthracnose",
+    "Bunch disease",
+    "Deep bark canker",
+    "Shallow bark canker",
+    "Walnut blight"
+  ],
+  "Lavender": [
+    "Bacterial leaf spot"
+  ],
+  "Bougainvillea": [
+    "Bacterial leaf spot"
+  ],
+  "Pomegranate": [
+    "Cercospora fruit spot"
+  ],
+  "Collard greens": [
+    "Downy mildew"
+  ],
+  "Mushroom": [
+    "Brown blotch",
+    "Drippy gill"
+  ],
+  "Chokecherry": [
+    "X-disease"
+  ],
+  "Cabbage": [
+    "Alternaria leaf spot",
+    "Bacterial leaf spot",
+    "Bacterial soft rot",
+    "Basal rot",
+    "Black rot",
+    "Clubroot",
+    "Damping-off",
+    "Downy mildew"
+  ],
+  "Tea": [
+    "Bacterial shoot blight"
+  ],
+  "Asparagus": [
+    "Asparagus rust",
+    "Cercospora Blight"
+  ],
+  "Magnolia": [
+    "Bacterial leaf spot"
+  ],
+  "Basil": [
+    "Cercospora leaf spot",
+    "Downy mildew",
+    "Gray mold",
+    "Leaf spot"
+  ],
+  "Kale": [
+    "Alternaria leaf spot",
+    "Black rot",
+    "Damping-off",
+    "Downy mildew"
+  ],
+  "Arugula": [
+    "White rust"
+  ],
+  "Nephthytis": [
+    "Bacterial leaf spot",
+    "Syngonium blight"
+  ],
+  "Mango": [
+    "Algal leaf spot",
+    "Anthracnose",
+    "Bacterial black spot",
+    "Powdery mildew",
+    "Sooty mold"
+  ],
+  "Alfalfa": [
+    "Alfalfa dwarf",
+    "Alfalfa mosaic",
+    "Anthracnose",
+    "Bacterial leaf spot",
+    "Bacterial wilt",
+    "Common leaf spot",
+    "Downy mildew",
+    "Lepto leaf spot",
+    "Phytophthora root and stem rot",
+    "Witches'-broom"
+  ],
+  "Ornithogalum": [
+    "Basal rot"
+  ],
+  "Radish": [
+    "Bacterial leaf spot",
+    "Bacterial soft rot",
+    "White rust"
+  ],
+  "Parsley": [
+    "Bacterial leaf spot and blight",
+    "Septoria leaf spot"
+  ],
+  "Napier grass": [
+    "Head Smut Disease",
+    "Napier Grass Stunt Disease"
+  ],
+  "Olive": [
+    "Olive knot"
+  ],
+  "Watercress": [
+    "Aster yellows"
+  ],
+  "Hazelnut": [
+    "Bacterial blight",
+    "Bacterial canker"
+  ],
+  "Willow": [
+    "Bacterial wilt and dieback",
+    "Slime flux",
+    "Witches'-broom"
+  ],
+  "Sunflower": [
+    "Alternaria leaf blight",
+    "Downy mildew",
+    "Phoma blight",
+    "Verticillium wilt"
+  ],
+  "Hibiscus": [
+    "Bacterial leaf spot"
+  ],
+  "Sweetgum": [
+    "Bacterial leaf spot and canker"
+  ],
+  "Yams": [
+    "Anthracnose",
+    "Mosaic disease"
+  ],
+  "Parsnip": [
+    "Bacterial blight"
+  ],
+  "Carrot": [
+    "Alternaria leaf blight",
+    "Bacterial gall",
+    "Bacterial leaf blight",
+    "Bacterial soft rot",
+    "Carrot yellows",
+    "Cercospora leaf blight",
+    "Cottony rot"
+  ],
+  "Mallotus": [
+    "Bacterial brown spot",
+    "Bacterial leaf spot"
+  ],
+  "Citron melon": [
+    "Bacterial fruit blotch"
+  ],
+  "Mustard": [
+    "Bacterial leaf spot",
+    "White rust"
+  ],
+  "Hawthorn": [
+    "Fire blight"
+  ],
+  "Campanula": [
+    "Bacterial fasciation"
+  ],
+  "Casuarina": [
+    "Slime flux"
+  ],
+  "Amaranth": [
+    "Bacterial leaf spot"
+  ],
+  "Mandarin oranges": [
+    "Citrus canker"
+  ],
+  "Persimmon": [
+    "Bacterial blight",
+    "Bacterial leaf spot"
+  ],
+  "Chickpea": [
+    "Ascochyta blight",
+    "Sclerotinia stem rot"
+  ],
+  "Aloe": [
+    "Bacterial blight and rot"
+  ],
+  "Yam bean": [
+    "Halo blight"
+  ],
+  "Fig": [
+    "Mosaic"
+  ],
+  "Lentil": [
+    "Ascochyta blight"
+  ],
+  "Kiwi": [
+    "Bacterial canker",
+    "Crown gall"
+  ],
+  "Cherry laurel": [
+    "Bacterial leaf spot"
+  ],
+  "Cauliflower": [
+    "Bacterial leaf spot",
+    "Bacterial soft rot",
+    "Black rot",
+    "Sclerotinia stem rot"
+  ],
+  "Wasabi": [
+    "Bacterial soft rot"
+  ],
+  "Hydrangea": [
+    "Bacterial leaf spot"
+  ],
+  "Kudzu": [
+    "Bacterial leaf spot"
+  ],
+  "Garlic": [
+    "Rust",
+    "White rot"
+  ],
+  "Cilantro": [
+    "Bacterial leaf spot"
+  ],
+  "Sesame": [
+    "Bacterial leaf spot"
+  ],
+  "Pluot": [
+    "Fire blight"
+  ],
+  "Kalanchoe": [
+    "Aster yellows"
+  ],
+  "Macadamia": [
+    "Slow and quick tree decline"
+  ],
+  "Artichoke": [
+    "Botrytis rot or gray mold"
+  ],
+  "Cowpea": [
+    "Bacterial leaf spot"
+  ],
+  "Millet": [
+    "Bacterial leaf stripe"
+  ],
+  "Dates": [
+    "Bayoud disease",
+    "Graphiola leaf spot"
+  ],
+  "Clove": [
+    "Sumatra disease"
+  ],
+  "Lethal yellowing": [
+    "scorch"
+  ],
+  "Gayfeather": [
+    "Phytoplasma disease"
+  ],
+  "Pellionia": [
+    "Bacterial leaf spot"
+  ],
+  "Paulownia": [
+    "Witches'-broom"
+  ],
+  "Rutabaga": [
+    "Black rot"
+  ],
+  "Pigeon pea": [
+    "Witches'-broom"
+  ],
+  "Chard": [
+    "Bacterial leaf spot of chard"
+  ],
+  "Collard": [
+    "Bacterial leaf spot"
+  ],
+  "Crabapple": [
+    "Fire blight"
+  ],
+  "Spathiphyllum": [
+    "Bacterial blight"
+  ],
+  "Verbena": [
+    "Bacterial leaf spot"
+  ],
+  "Coriander": [
+    "Bacterial leaf spot"
+  ],
+  "Butternut": [
+    "Bunch disease"
+  ],
+  "Panax": [
+    "Bacterial leaf spot"
+  ],
+  "Mandarin orange": [
+    "Citrus greening"
+  ],
+  "Konjac": [
+    "Bacterial leaf blight"
+  ]
+}
